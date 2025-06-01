@@ -44,13 +44,17 @@ This project was created to help my girlfriend quickly find music links by searc
     "Email": "lucas.almeida@example.com",
     "Link da música:": "https://music.example.com/track1"
   },
-  ...
 ]
+```
 
 Mini dictionary:
 
 Nome = Name
+
 Link da musica = Music link
+
 Sim = Yes
+
 Nao = No
+
 Deseja continuar procurando? = Do you want to continue searching?
