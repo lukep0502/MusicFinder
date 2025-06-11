@@ -1,5 +1,7 @@
 # Music Link Finder — C++
 
+![C++](https://img.shields.io/badge/Language-C++-blue?logo=c%2B%2B)
+
 This project is a simple C++ console application designed to help search for music links by querying a list of people stored in a JSON file. The program allows searching by either a person's full name or their unique ID, returning associated music links and user details.
 
 ## Motivation
